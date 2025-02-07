@@ -1,2 +1,2 @@
 # test-repo
-Description
+Repositorio para fines didácticos explicativos
